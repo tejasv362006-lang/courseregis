@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 EduEnroll – Online Course Registration System
 ### Java Servlets + JSP + JDBC + MySQL + Apache Tomcat
 
@@ -189,3 +190,6 @@ The root page automatically redirects to `/login`.
 - Add an admin panel to manage courses
 - Use a connection pool (Apache DBCP or HikariCP)
 - Add email verification on registration
+=======
+# courseregis
+>>>>>>> 8f9e318fb3ec24eed7f2f1d8a4d57ce4f5b43c13
