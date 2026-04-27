@@ -1,0 +1,7 @@
+com\course\servlet\CoursesServlet.class
+com\course\servlet\LoginServlet.class
+com\course\servlet\LogoutServlet.class
+com\course\servlet\EnrollServlet.class
+com\course\db\DBConnection.class
+com\course\servlet\DashboardServlet.class
+com\course\servlet\RegisterServlet.class
